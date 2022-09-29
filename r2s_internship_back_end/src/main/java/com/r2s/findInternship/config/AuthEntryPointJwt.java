@@ -1,0 +1,46 @@
+package com.r2s.findInternship.config;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
+import org.springframework.security.authentication.InsufficientAuthenticationException;
+import org.springframework.security.core.AuthenticationException;
+import org.springframework.security.web.AuthenticationEntryPoint;
+import org.springframework.stereotype.Component;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+@Component
+public class AuthEntryPointJwt implements AuthenticationEntryPoint {
+	 private static final Logger logger = LoggerFactory.getLogger("exception");
+	 //HANDLE UNAUTHORIED
+	@Override
+	public void commence(HttpServletRequest request, HttpServletResponse response,
+			AuthenticationException authException) throws IOException, ServletException {
+		logger.error("Unauthorized error: {}",authException.getMessage());
+		response.setContentType(MediaType.APPLICATION_JSON_VALUE);
+		response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
+		final Map<String, Object> body = new HashMap<>();
+        if (authException instanceof InsufficientAuthenticationException) {
+            response.setStatus(HttpServletResponse.SC_FORBIDDEN);
+            body.put("status", HttpServletResponse.SC_FORBIDDEN);
+            body.put("error", "Forbidden!");
+            body.put("message", "Forbidden");
+        } else {
+            body.put("status", HttpStatus.UNAUTHORIZED.value());
+            body.put("error", "Không có quyền");
+        }
+        body.put("message", authException.getMessage());
+        body.put("path", request.getServletPath());
+        final ObjectMapper mapper = new ObjectMapper();
+        mapper.writeValue(response.getOutputStream(), body);
+	}
+}

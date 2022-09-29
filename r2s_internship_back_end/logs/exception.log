@@ -1,0 +1,319 @@
+08-07-2022 11:04:00:619  WARN http-nio-8085-exec-6 exception:32 - ApplyList not found with id: 1000
+08-07-2022 11:07:24:543  WARN http-nio-8085-exec-10 exception:32 - Company not found with id: 1213123
+09-07-2022 22:24:15:235 ERROR http-nio-8085-exec-4 exception:94 - Please check!
+09-07-2022 22:26:07:211  WARN http-nio-8085-exec-1 exception:33 - Role not found with id: 4
+09-07-2022 22:28:38:126  WARN http-nio-8085-exec-5 exception:33 - Status not found with name: Not Available
+12-07-2022 13:33:58:611  WARN http-nio-8085-exec-4 exception:33 - Company not found with id: 1231
+12-07-2022 17:11:19:412  WARN http-nio-8085-exec-8 exception:33 - Company not found with id: 1231
+13-07-2022 09:00:42:525  WARN http-nio-8085-exec-1 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:00:48:865  WARN http-nio-8085-exec-4 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:00:57:097  WARN http-nio-8085-exec-6 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:01:03:053  WARN http-nio-8085-exec-8 exception:33 - Candidate not found with Id: 4
+13-07-2022 09:08:06:908  WARN http-nio-8085-exec-2 exception:33 - ApplyList not found with id: 2
+13-07-2022 09:08:08:780  WARN http-nio-8085-exec-1 exception:33 - ApplyList not found with id: 3
+13-07-2022 09:27:33:569  WARN http-nio-8085-exec-4 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:28:07:246  WARN http-nio-8085-exec-7 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:32:38:192  WARN http-nio-8085-exec-2 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:36:22:995  WARN http-nio-8085-exec-2 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 09:38:33:839  WARN http-nio-8085-exec-2 exception:33 - File CV not found with id of Cadidate: 3
+13-07-2022 14:44:47:490  WARN http-nio-8085-exec-2 exception:33 - Company not found with id: 100
+12-07-2022 11:59:30:595  WARN http-nio-8085-exec-2 exception:33 - Role not found with id: 3
+12-07-2022 12:06:39:919  WARN http-nio-8085-exec-1 exception:33 - Status not found with name: Not Available
+12-07-2022 15:22:59:105 ERROR http-nio-8085-exec-1 exception:27 - Unauthorized error: Bad credentials
+12-07-2022 15:24:39:976 ERROR http-nio-8085-exec-8 exception:27 - Unauthorized error: Bad credentials
+12-07-2022 15:24:48:994 ERROR http-nio-8085-exec-5 exception:27 - Unauthorized error: Bad credentials
+12-07-2022 15:46:26:049  WARN http-nio-8085-exec-1 exception:74 - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+12-07-2022 15:47:24:614  WARN http-nio-8085-exec-6 exception:74 - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+13-07-2022 22:26:41:735  WARN http-nio-8085-exec-10 exception:33 - Role not found with id: 3
+13-07-2022 19:34:58:016  WARN http-nio-8085-exec-2 exception:33 - User not found with username: thanhsang1105
+13-07-2022 19:36:20:364  WARN http-nio-8085-exec-5 exception:33 - User not found with username: Test21011933
+13-07-2022 19:50:43:393  WARN http-nio-8085-exec-1 exception:33 - Candidate not found with Id: 0
+13-07-2022 19:55:56:955 ERROR http-nio-8085-exec-1 exception:27 - Unauthorized error: Tên đăng nhập không chính xác
+13-07-2022 19:56:17:097 ERROR http-nio-8085-exec-3 exception:27 - Unauthorized error: Tên đăng nhập không chính xác
+14-07-2022 17:17:21:774  WARN http-nio-8085-exec-1 exception:33 - Major not found with id: 1
+13-07-2022 22:56:40:072  WARN http-nio-8085-exec-1 exception:33 - Company not found with id: 1
+13-07-2022 23:00:38:761  WARN http-nio-8085-exec-1 exception:33 - Role not found with id: 3
+14-07-2022 09:47:13:077 ERROR http-nio-8085-exec-2 exception:27 - Unauthorized error: Tên đăng nhập không chính xác
+14-07-2022 09:47:58:038 ERROR http-nio-8085-exec-3 exception:27 - Unauthorized error: Tên đăng nhập không chính xác
+14-07-2022 10:45:30:504  WARN http-nio-8085-exec-2 exception:33 - null not found with null: null
+14-07-2022 10:47:05:651  WARN http-nio-8085-exec-2 exception:33 - Job not found with id of Company: 1
+14-07-2022 10:47:10:888  WARN http-nio-8085-exec-3 exception:33 - Job not found with id of Company: 140
+14-07-2022 10:50:31:868  WARN http-nio-8085-exec-8 exception:33 - null not found with null: null
+14-07-2022 10:57:30:642  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of Company: 1
+14-07-2022 10:59:17:284  WARN http-nio-8085-exec-10 exception:33 - null not found with null: null
+14-07-2022 15:48:18:351  WARN http-nio-8085-exec-1 exception:33 - Job not found with id of Company: 1
+14-07-2022 15:49:51:305  WARN http-nio-8085-exec-6 exception:33 - Major not found with id: 1
+14-07-2022 16:19:24:167  WARN http-nio-8085-exec-5 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:19:27:560  WARN http-nio-8085-exec-7 exception:33 - Job not found with id of HR: 3
+14-07-2022 16:24:15:961  WARN http-nio-8085-exec-3 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:24:21:109  WARN http-nio-8085-exec-5 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:24:26:809  WARN http-nio-8085-exec-6 exception:33 - Job not found with id of HR: 3
+14-07-2022 16:24:28:303  WARN http-nio-8085-exec-7 exception:33 - Job not found with id of HR: 4
+14-07-2022 16:25:14:074  WARN http-nio-8085-exec-10 exception:33 - Job not found with id of Company: 2
+14-07-2022 16:26:29:227  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:29:00:846  WARN http-nio-8085-exec-1 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:30:17:848  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:31:39:860  WARN http-nio-8085-exec-3 exception:33 - Job not found with id of HR: 2
+14-07-2022 16:37:08:881  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of HR: 1
+14-07-2022 16:39:38:668  WARN http-nio-8085-exec-8 exception:33 - Job not found with id of HR: 1
+14-07-2022 16:40:16:230  WARN http-nio-8085-exec-1 exception:33 - Candidate not found with Id: 3
+14-07-2022 16:40:22:584  WARN http-nio-8085-exec-2 exception:33 - Candidate not found with Id: 1
+14-07-2022 16:40:43:786  WARN http-nio-8085-exec-5 exception:33 - Job not found with id: 1
+14-07-2022 16:40:48:821  WARN http-nio-8085-exec-6 exception:33 - Job not found with id: 1
+14-07-2022 17:14:07:864  WARN http-nio-8085-exec-7 exception:33 - Job not found with id: 1
+14-07-2022 21:23:23:433  WARN http-nio-8085-exec-3 exception:33 - Job not found with id of HR: Loc
+
+14-07-2022 21:23:33:605  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of HR: LocNg
+
+14-07-2022 21:23:38:390  WARN http-nio-8085-exec-5 exception:33 - Job not found with id of HR: LocNV
+
+14-07-2022 21:23:40:435  WARN http-nio-8085-exec-6 exception:33 - Job not found with id of HR: LocNV
+
+14-07-2022 23:53:41:957  WARN http-nio-8085-exec-10 exception:33 - Job not found with id of Company: 1
+15-07-2022 00:17:01:524  WARN http-nio-8085-exec-7 exception:33 - Job not found with id of HR: LocNVss
+15-07-2022 00:38:44:845  WARN http-nio-8085-exec-2 exception:33 - Job not found with id of HR: Loc
+15-07-2022 09:30:39:420  WARN http-nio-8085-exec-1 exception:33 - Job not found with id of HR: 1
+15-07-2022 09:30:44:601  WARN http-nio-8085-exec-5 exception:33 - Job not found with id of HR: 3
+15-07-2022 09:33:22:221  WARN http-nio-8085-exec-7 exception:33 - Job not found with id of HR: 1
+15-07-2022 10:03:52:663  WARN http-nio-8085-exec-2 exception:33 - Job not found with id of HR: 2
+15-07-2022 10:03:56:403  WARN http-nio-8085-exec-3 exception:33 - Job not found with id of HR: 1
+15-07-2022 10:03:57:753  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of HR: 2
+15-07-2022 10:03:58:688  WARN http-nio-8085-exec-5 exception:33 - Job not found with id of HR: 3
+15-07-2022 10:03:59:854  WARN http-nio-8085-exec-6 exception:33 - Job not found with id of HR: 4
+15-07-2022 10:05:32:221  WARN http-nio-8085-exec-2 exception:33 - Job not found with id of HR: 1
+15-07-2022 10:05:33:323  WARN http-nio-8085-exec-3 exception:33 - Job not found with id of HR: 2
+15-07-2022 10:05:34:762  WARN http-nio-8085-exec-4 exception:33 - Job not found with id of HR: 3
+15-07-2022 10:05:35:854  WARN http-nio-8085-exec-5 exception:33 - Job not found with id of HR: 4
+15-07-2022 10:15:26:147  WARN http-nio-8085-exec-2 exception:33 - Job not found with id of User: 11
+15-07-2022 14:17:05:040  WARN http-nio-8085-exec-10 exception:33 - Job not found with id of Company: 1
+15-07-2022 09:48:52:471  WARN http-nio-8085-exec-7 exception:33 - Partner not found with id: 23
+15-07-2022 11:16:48:093  WARN http-nio-8085-exec-3 exception:33 - User not found with Id: 22
+15-07-2022 15:07:08:794 ERROR http-nio-8085-exec-3 exception:94 - Please check!
+15-07-2022 15:07:30:617 ERROR http-nio-8085-exec-4 exception:94 - Please check!
+15-07-2022 15:08:14:642 ERROR http-nio-8085-exec-4 exception:94 - Please check!
+15-07-2022 15:10:47:476 ERROR http-nio-8085-exec-3 exception:94 - Please check!
+15-07-2022 15:11:30:888 ERROR http-nio-8085-exec-2 exception:94 - Please check!
+15-07-2022 15:12:03:609 ERROR http-nio-8085-exec-2 exception:94 - Please check!
+15-07-2022 15:13:00:333 ERROR http-nio-8085-exec-1 exception:94 - Please check!
+15-07-2022 15:13:33:749 ERROR http-nio-8085-exec-3 exception:27 - Unauthorized error: Bad credentials
+15-07-2022 15:14:31:457 ERROR http-nio-8085-exec-2 exception:27 - Unauthorized error: Bad credentials
+18-07-2022 14:51:32:282 ERROR http-nio-8085-exec-2 exception:27 - Unauthorized error: Bad credentials
+18-07-2022 14:52:31:496 ERROR http-nio-8085-exec-5 exception:94 - Please check!
+18-07-2022 14:53:11:989 ERROR http-nio-8085-exec-3 exception:27 - Unauthorized error: Bad credentials
+18-07-2022 14:53:19:190 ERROR http-nio-8085-exec-2 exception:27 - Unauthorized error: Bad credentials
+22-07-2022 16:05:44:764 ERROR http-nio-8085-exec-2 exception:28 - Unauthorized error: Bad credentials
+23-07-2022 15:49:21:076  WARN http-nio-8085-exec-5 exception:33 - Partner not found with id: 100
+23-07-2022 15:55:36:374  WARN http-nio-8085-exec-3 exception:33 - Partner not found with id: 100
+25-07-2022 11:02:25:842  WARN http-nio-8085-exec-2 exception:28 - Company not found with id: 1231
+26-07-2022 10:26:24:615  WARN http-nio-8085-exec-3 exception:28 - HR not found with id of User: 1000
+26-07-2022 14:18:31:970  WARN http-nio-8085-exec-3 exception:28 - HR not found with id of User: 86
+26-07-2022 14:18:35:735  WARN http-nio-8085-exec-4 exception:28 - HR not found with id of User: 82
+26-07-2022 14:18:36:856  WARN http-nio-8085-exec-5 exception:28 - HR not found with id of User: 81
+26-07-2022 13:37:46:759  WARN http-nio-8085-exec-9 exception:61 - com.r2s.findInternship.exception.ExceptionCustom: Mỗi candidate chỉ có thể quan tâm đến công việc một lần
+26-07-2022 16:54:57:020  WARN http-nio-8085-exec-9 exception:28 - Applt not found with query: null
+26-07-2022 16:55:13:742  WARN http-nio-8085-exec-2 exception:28 - Applt not found with query: null
+26-07-2022 16:56:38:917  WARN http-nio-8085-exec-2 exception:28 - Apply not found with query: null
+26-07-2022 17:09:11:561  WARN http-nio-8085-exec-2 exception:28 - Apply not found with query: null
+[2022-07-29 10:28:05] [http-nio-8085-exec-2] [WARN ] exception - University not found with id: 100
+[2022-07-29 10:30:15] [http-nio-8085-exec-5] [WARN ] exception - University not found with id: 100
+[2022-07-29 10:30:51:333] [http-nio-8085-exec-2] [WARN ] exception - University not found with id: 150[2022-08-02 15:28:13:466] [http-nio-8085-exec-4] [WARN ] exception - Job not found with id: 12
+[2022-08-03 10:27:19:207] [http-nio-8085-exec-6] [WARN ] exception - Location not found with id of District: 1
+[2022-08-11 10:12:53:357] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:44:46:430] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:44:59:826] [http-nio-8085-exec-5] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:45:49:906] [http-nio-8085-exec-8] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:45:49:992] [http-nio-8085-exec-9] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:46:04:108] [http-nio-8085-exec-7] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:46:04:147] [http-nio-8085-exec-10] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:46:11:712] [http-nio-8085-exec-8] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 10:49:22:936] [http-nio-8085-exec-6] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 11:17:41:127] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 11:17:55:960] [http-nio-8085-exec-3] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 11:20:45:559] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 14:49:20:818] [http-nio-8085-exec-5] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 17:10:11:683] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 23:18:37:411] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-11 23:19:04:815] [http-nio-8085-exec-5] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-12 09:52:45:960] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-12 09:52:55:047] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-12 09:56:35:722] [http-nio-8085-exec-6] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-12 09:56:35:807] [http-nio-8085-exec-8] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-12 09:56:50:734] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-23 11:41:49:125] [http-nio-8085-exec-1] [WARN ] exception - University not found with id: 44
+[2022-08-23 11:54:03:874] [http-nio-8085-exec-1] [WARN ] exception - Demand not found with id: 1
+[2022-08-23 11:54:52:817] [http-nio-8085-exec-3] [WARN ] exception - Demand not found with id: 1
+[2022-08-23 11:55:05:046] [http-nio-8085-exec-5] [WARN ] exception - Demand not found with id: 2
+[2022-08-23 11:55:38:510] [http-nio-8085-exec-7] [WARN ] exception - Demand not found with id: 1
+[2022-08-23 12:01:11:532] [http-nio-8085-exec-2] [WARN ] exception - Demand not found with id: 3
+[2022-08-23 12:01:20:891] [http-nio-8085-exec-3] [WARN ] exception - Demand not found with id: 1
+[2022-08-23 14:28:14:675] [http-nio-8085-exec-8] [WARN ] exception - Role not found with id: 4
+[2022-08-23 14:29:56:791] [http-nio-8085-exec-1] [WARN ] exception - Status not found with name: Not Available
+[2022-08-23 14:30:31:218] [http-nio-8085-exec-2] [WARN ] exception - Status not found with name: Not Available
+[2022-08-23 14:32:56:881] [http-nio-8085-exec-5] [WARN ] exception - Status not found with name: Not Available
+[2022-08-25 09:58:15:155] [http-nio-8085-exec-5] [WARN ] exception - Partner not found with id: 153
+[2022-08-25 10:17:45:587] [http-nio-8085-exec-5] [WARN ] exception - Partner not found with id: 99
+[2022-08-29 16:02:32:182] [http-nio-8085-exec-9] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 10:27:34:180] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-30 10:49:36:117] [http-nio-8085-exec-5] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 10:50:04:196] [http-nio-8085-exec-7] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 10:50:38:267] [http-nio-8085-exec-8] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 10:51:51:060] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 11:23:05:198] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 13:14:40:355] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-08-30 15:31:51:512] [http-nio-8085-exec-5] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 15:33:46:163] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 15:34:09:640] [http-nio-8085-exec-4] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 15:35:26:093] [http-nio-8085-exec-4] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 15:36:33:015] [http-nio-8085-exec-6] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 15:38:28:817] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 15:41:01:117] [http-nio-8085-exec-7] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 15:43:57:375] [http-nio-8085-exec-6] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 15:52:12:305] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Bad credentials
+[2022-08-30 15:52:28:236] [http-nio-8085-exec-3] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 15:53:52:245] [http-nio-8085-exec-8] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:10:15:648] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:27:19:195] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:36:16:346] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:41:26:428] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:50:25:130] [http-nio-8085-exec-6] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:50:57:236] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:56:04:485] [http-nio-8085-exec-6] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 16:57:48:660] [http-nio-8085-exec-8] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:02:23:214] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:02:23:266] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 17:02:46:230] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 17:02:46:262] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 17:18:24:153] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:18:24:222] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 17:19:31:513] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 17:21:22:895] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:21:22:932] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-30 17:21:51:015] [http-nio-8085-exec-4] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:21:51:057] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 17:24:07:952] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:25:52:142] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-30 17:31:33:801] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 17:34:54:287] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:34:54:342] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 17:41:21:901] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 17:41:21:948] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-30 19:32:24:055] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 19:32:24:130] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-30 19:32:51:705] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 19:36:01:730] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 19:36:01:825] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 19:39:27:021] [http-nio-8085-exec-4] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 19:39:27:026] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 19:42:44:575] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 19:42:44:635] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 19:43:01:880] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 19:43:01:938] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-30 19:51:29:300] [http-nio-8085-exec-2] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 19:51:29:366] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-30 19:56:33:142] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-30 19:59:11:359] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-30 20:00:55:633] [http-nio-8085-exec-1] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-08-31 10:38:15:276] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-08-31 10:48:36:262] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-31 10:55:57:337] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-08-31 10:57:10:880] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-08-31 10:57:55:473] [http-nio-8085-exec-7] [ERROR] exception - Please check!
+[2022-08-31 11:00:56:033] [http-nio-8085-exec-8] [ERROR] exception - Please check!
+[2022-08-31 11:03:43:736] [http-nio-8085-exec-9] [ERROR] exception - Please check!
+[2022-09-05 09:10:36:023] [http-nio-8085-exec-3] [ERROR] exception - Please check!
+[2022-09-05 09:10:47:729] [http-nio-8085-exec-7] [ERROR] exception - Please check!
+[2022-09-05 09:12:33:672] [http-nio-8085-exec-10] [ERROR] exception - Please check!
+[2022-09-05 09:14:03:672] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-05 09:14:35:179] [http-nio-8085-exec-7] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-09-05 09:15:29:918] [http-nio-8085-exec-10] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-09-05 09:15:47:390] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-05 09:16:41:838] [http-nio-8085-exec-7] [ERROR] exception - Please check!
+[2022-09-05 09:16:58:307] [http-nio-8085-exec-8] [ERROR] exception - Please check!
+[2022-09-05 10:05:07:777] [http-nio-8085-exec-5] [ERROR] exception - Please check!
+[2022-09-05 10:39:33:191] [http-nio-8085-exec-5] [WARN ] exception - com.r2s.findInternship.exception.InvalidOldPasswordException: Mật khẩu không chính xác.
+[2022-09-05 13:34:21:223] [http-nio-8085-exec-3] [ERROR] exception - Please check!
+[2022-09-05 13:44:11:137] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 13:44:46:142] [http-nio-8085-exec-3] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 13:45:16:621] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 15:23:20:472] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-05 15:24:04:489] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-05 15:25:11:207] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-05 15:47:22:113] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-05 16:14:44:064] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-05 16:16:06:658] [http-nio-8085-exec-3] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 16:18:39:563] [http-nio-8085-exec-7] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 16:28:16:812] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 16:34:21:320] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 16:35:15:238] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-05 16:37:55:936] [http-nio-8085-exec-8] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-06 09:46:57:120] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-06 10:03:19:214] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-06 10:04:07:831] [http-nio-8085-exec-6] [ERROR] exception - Please check!
+[2022-09-06 10:15:42:129] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-06 10:18:29:444] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-06 10:24:04:036] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-06 10:27:33:768] [http-nio-8085-exec-7] [ERROR] exception - Please check!
+[2022-09-06 10:40:53:550] [http-nio-8085-exec-8] [ERROR] exception - Please check!
+[2022-09-06 10:48:37:759] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-06 10:54:42:320] [http-nio-8085-exec-6] [ERROR] exception - Please check!
+[2022-09-06 16:53:25:281] [http-nio-8085-exec-8] [WARN ] exception - ApplyList not found with id: 1
+[2022-09-06 16:55:01:402] [http-nio-8085-exec-5] [ERROR] exception - Please check!
+[2022-09-08 10:26:56:863] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-08 10:33:08:543] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-08 10:35:51:639] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-08 10:44:20:219] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-08 10:44:29:162] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-08 10:50:42:265] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-08 10:51:51:685] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-08 10:53:50:736] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-08 11:39:28:940] [http-nio-8085-exec-8] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 11:46:09:544] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 11:46:19:446] [http-nio-8085-exec-3] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 11:46:26:237] [http-nio-8085-exec-4] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 11:54:57:003] [http-nio-8085-exec-2] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 11:56:35:754] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 11:57:56:358] [http-nio-8085-exec-5] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 12:01:18:643] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-08 13:43:45:205] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-08 13:51:05:965] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-08 14:22:45:906] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-09 09:23:44:821] [http-nio-8085-exec-1] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-09 09:49:50:823] [http-nio-8085-exec-5] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-09 10:06:47:634] [http-nio-8085-exec-10] [ERROR] exception - Please check!
+[2022-09-09 10:23:01:338] [http-nio-8085-exec-6] [ERROR] exception - Unauthorized error: Full authentication is required to access this resource
+[2022-09-12 09:44:28:034] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-12 09:45:19:610] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-15 09:29:50:553] [http-nio-8085-exec-2] [WARN ] exception - Partner not found with id: 99
+[2022-09-16 14:09:49:906] [http-nio-8085-exec-10] [ERROR] exception - Please check!
+[2022-09-20 11:46:26:055] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-20 13:57:28:335] [http-nio-8085-exec-3] [ERROR] exception - Please check!
+[2022-09-20 13:58:31:717] [http-nio-8085-exec-5] [ERROR] exception - Please check!
+[2022-09-20 13:58:53:178] [http-nio-8085-exec-7] [ERROR] exception - Please check!
+[2022-09-20 14:00:49:284] [http-nio-8085-exec-9] [ERROR] exception - Please check!
+[2022-09-20 14:01:48:263] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-20 14:04:42:094] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-20 14:19:46:632] [http-nio-8085-exec-8] [ERROR] exception - Please check!
+[2022-09-20 14:36:57:747] [http-nio-8085-exec-10] [ERROR] exception - Please check!
+[2022-09-22 10:04:45:756] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-22 10:15:40:702] [http-nio-8085-exec-6] [ERROR] exception - Please check!
+[2022-09-27 13:53:21:916] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-27 16:56:28:314] [http-nio-8085-exec-1] [WARN ] exception - Partner not found with id: 5
+[2022-09-27 16:57:29:975] [http-nio-8085-exec-5] [ERROR] exception - Please check!
+[2022-09-27 17:20:18:637] [http-nio-8085-exec-3] [ERROR] exception - Please check!
+[2022-09-27 17:21:46:513] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-27 17:22:05:202] [http-nio-8085-exec-6] [ERROR] exception - Please check!
+[2022-09-27 17:22:19:927] [http-nio-8085-exec-8] [ERROR] exception - Please check!
+[2022-09-27 17:25:36:689] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-27 17:26:17:593] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-27 17:28:55:590] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-27 17:30:10:905] [http-nio-8085-exec-4] [ERROR] exception - Please check!
+[2022-09-27 17:30:23:156] [http-nio-8085-exec-6] [WARN ] exception - Partner not found with id: 93
+[2022-09-27 17:30:28:997] [http-nio-8085-exec-7] [WARN ] exception - Partner not found with id: 94
+[2022-09-27 17:32:00:650] [http-nio-8085-exec-10] [WARN ] exception - Partner not found with id: 91
+[2022-09-27 17:32:54:779] [http-nio-8085-exec-1] [ERROR] exception - Please check!
+[2022-09-27 17:33:07:394] [http-nio-8085-exec-3] [ERROR] exception - Please check!
+[2022-09-29 09:53:35:672] [http-nio-8085-exec-2] [ERROR] exception - Please check!
+[2022-09-29 10:06:02:322] [http-nio-8085-exec-1] [WARN ] exception - Partner not found with id: 52
+[2022-09-29 10:06:23:154] [http-nio-8085-exec-4] [WARN ] exception - Partner not found with id: 3
+[2022-09-29 10:16:24:508] [http-nio-8085-exec-3] [ERROR] exception - Please check!
+[2022-09-29 10:25:44:323] [http-nio-8085-exec-1] [ERROR] exception - Please check!

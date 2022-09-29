@@ -1,0 +1,294 @@
+07-07-2022 13:25:55:916  INFO http-nio-8085-exec-5 info:109 - Admin has create TRUONG DH  OPEN 49 successfully with 
+07-07-2022 13:28:02:618  INFO http-nio-8085-exec-4 info:109 - Admin has create TRUONG DH  OPEN 50 successfully with 
+07-07-2022 16:54:22:070  INFO http-nio-8085-exec-3 info:301 - SOS deleted.
+07-07-2022 17:11:49:009  INFO http-nio-8085-exec-1 info:302 - DAI HOC MO deleted.
+08-07-2022 14:03:07:009  INFO http-nio-8085-exec-3 info:113 - Admin has create TRUONG DH  OPEN 50 successfully with 
+08-07-2022 14:07:20:326  INFO http-nio-8085-exec-5 info:117 - Admin has create TRUONG DH  OPEN 51 successfully with 
+08-07-2022 14:08:53:343  INFO http-nio-8085-exec-9 info:117 - Admin has create TRUONG DH  OPEN 52 successfully with 
+08-07-2022 14:09:46:434  INFO http-nio-8085-exec-10 info:117 - Admin has create TRUONG DH  OPEN 53 successfully with 
+13-07-2022 14:33:39:361  INFO http-nio-8085-exec-6 info:168 - Candidate test1 register successfull!
+13-07-2022 14:33:39:379  INFO http-nio-8085-exec-6 info:92 - HR saved with username: test1
+13-07-2022 14:45:46:495  INFO http-nio-8085-exec-6 info:168 - Candidate test2 register successfull!
+13-07-2022 14:45:46:506  INFO http-nio-8085-exec-6 info:92 - HR saved with username: test2
+12-07-2022 10:47:11:481  INFO http-nio-8085-exec-4 info:168 - Candidate thanhsang1105 register successfull!
+12-07-2022 11:17:56:235  INFO http-nio-8085-exec-2 info:168 - Candidate sangpt register successfull!
+12-07-2022 11:32:51:621  INFO http-nio-8085-exec-1 info:168 - Candidate thanhsangsav register successfull!
+12-07-2022 11:50:50:140  INFO http-nio-8085-exec-6 info:167 - Candidate thanhsangsav2 register successfull!
+12-07-2022 13:07:15:318  INFO http-nio-8085-exec-1 info:167 - Candidate String register successfull!
+12-07-2022 13:07:15:325  INFO http-nio-8085-exec-1 info:150 - Candidate saved with username: String
+13-07-2022 19:57:13:866  INFO http-nio-8085-exec-7 info:214 - User String1 updated!
+13-07-2022 19:57:13:867  INFO http-nio-8085-exec-7 info:223 - Update Candidate with username: String1
+13-07-2022 19:57:57:725  INFO http-nio-8085-exec-8 info:214 - User String1 updated!
+13-07-2022 19:57:57:725  INFO http-nio-8085-exec-8 info:223 - Update Candidate with username: String1
+13-07-2022 20:06:16:035  INFO http-nio-8085-exec-1 info:214 - User String1 updated!
+13-07-2022 20:07:14:811  INFO http-nio-8085-exec-1 info:224 - Update Candidate with username: String1
+13-07-2022 20:11:40:343  INFO http-nio-8085-exec-1 info:214 - User String1 updated!
+13-07-2022 20:11:40:343  INFO http-nio-8085-exec-1 info:225 - Update Candidate with username: String1
+13-07-2022 20:17:59:377  INFO http-nio-8085-exec-4 info:225 - Update Candidate with username: String1
+13-07-2022 20:18:08:464  INFO http-nio-8085-exec-3 info:225 - Update Candidate with username: String1
+13-07-2022 20:20:20:384  INFO http-nio-8085-exec-3 info:225 - Update Candidate with username: String1
+13-07-2022 20:21:17:200  INFO http-nio-8085-exec-4 info:225 - Update Candidate with username: String1
+14-07-2022 09:03:21:916  INFO http-nio-8085-exec-3 info:218 - Update Candidate with username: sangpt3
+14-07-2022 09:14:06:030  INFO http-nio-8085-exec-2 info:214 - User sangpt3 updated!
+14-07-2022 09:15:51:626  INFO http-nio-8085-exec-2 info:214 - User sangpt3 updated!
+14-07-2022 09:17:03:264  INFO http-nio-8085-exec-1 info:214 - User sangpt3 updated!
+14-07-2022 09:21:07:986  INFO http-nio-8085-exec-3 info:214 - User sangpt3 updated!
+14-07-2022 09:22:17:931  INFO http-nio-8085-exec-2 info:214 - User sangpt3 updated!
+14-07-2022 09:23:16:552  INFO http-nio-8085-exec-2 info:214 - User sangpt3 updated!
+14-07-2022 09:23:16:651  INFO http-nio-8085-exec-2 info:224 - Update Candidate with username: sangpt3
+14-07-2022 09:23:46:070  INFO http-nio-8085-exec-4 info:214 - User sangpt3 updated!
+14-07-2022 09:23:46:120  INFO http-nio-8085-exec-4 info:224 - Update Candidate with username: sangpt3
+14-07-2022 09:24:06:271  INFO http-nio-8085-exec-2 info:214 - User sangpt3 updated!
+14-07-2022 09:24:06:346  INFO http-nio-8085-exec-2 info:224 - Update Candidate with username: sangpt3
+14-07-2022 09:25:15:328  INFO http-nio-8085-exec-6 info:214 - User sangpt3 updated!
+14-07-2022 09:25:15:366  INFO http-nio-8085-exec-6 info:224 - Update Candidate with username: sangpt3
+14-07-2022 09:27:30:156  INFO http-nio-8085-exec-3 info:214 - User sangpt3 updated!
+14-07-2022 09:30:51:747  INFO http-nio-8085-exec-2 info:214 - User sangpt3 updated!
+14-07-2022 09:30:51:808  INFO http-nio-8085-exec-2 info:228 - Update Candidate with username: sangpt3
+14-07-2022 09:31:13:852  INFO http-nio-8085-exec-3 info:214 - User sangpt3 updated!
+14-07-2022 09:31:13:906  INFO http-nio-8085-exec-3 info:228 - Update Candidate with username: sangpt3
+14-07-2022 10:49:19:910  INFO http-nio-8085-exec-1 info:158 - Candidate vừa được tạo thành công với username: testtest34
+14-07-2022 10:59:19:015  INFO http-nio-8085-exec-3 info:158 - Candidate vừa được tạo thành công với username: testtest35
+14-07-2022 11:01:29:618  INFO http-nio-8085-exec-1 info:158 - Candidate vừa được tạo thành công với username: testtest36
+14-07-2022 11:24:04:120  INFO http-nio-8085-exec-2 info:278 - Update Candidate with username: testtest36
+14-07-2022 11:24:35:265  INFO http-nio-8085-exec-3 info:278 - Update Candidate with username: testtest36
+14-07-2022 11:26:28:618  INFO http-nio-8085-exec-2 info:278 - Update Candidate with username: testtest36
+14-07-2022 11:27:01:288  INFO http-nio-8085-exec-1 info:278 - Update Candidate with username: testtest36
+14-07-2022 13:15:25:924  INFO http-nio-8085-exec-1 info:279 - Update Candidate with username: testtest36
+14-07-2022 13:56:45:085  INFO http-nio-8085-exec-4 info:167 - Candidate test00917 register successfull!
+14-07-2022 13:58:59:437  INFO http-nio-8085-exec-2 info:167 - Candidate test09017 register successfull!
+14-07-2022 13:58:59:631  INFO http-nio-8085-exec-2 info:229 - test09017 created successful university wit name: TRUONG DH TP HCM 124
+14-07-2022 14:17:52:737  INFO http-nio-8085-exec-8 info:167 - Candidate test09@17 register successfull!
+14-07-2022 14:17:53:107  INFO http-nio-8085-exec-8 info:231 - test09@17 created successful university wit name: TRUONG DH TP HCM 1124
+14-07-2022 14:30:37:230  INFO http-nio-8085-exec-2 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:42:246  INFO http-nio-8085-exec-3 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:43:710  INFO http-nio-8085-exec-4 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:44:876  INFO http-nio-8085-exec-5 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:45:863  INFO http-nio-8085-exec-6 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:47:108  INFO http-nio-8085-exec-7 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:48:173  INFO http-nio-8085-exec-8 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:49:364  INFO http-nio-8085-exec-9 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:30:50:405  INFO http-nio-8085-exec-10 info:221 - Update Candidate with username: testtest36
+14-07-2022 14:48:45:556  INFO http-nio-8085-exec-1 info:133 - Admin has create TRUONG DH TP HCM 1240 successfully with 
+14-07-2022 16:27:54:834  INFO http-nio-8085-exec-3 info:159 - Candidate vừa được tạo thành công với username: testtest36
+14-07-2022 16:28:57:038  INFO http-nio-8085-exec-5 info:221 - Update Candidate with username: testtest36
+14-07-2022 16:34:15:815  INFO http-nio-8085-exec-3 info:133 - Admin has create TRUONG DH TP HCM 1241 successfully with 
+14-07-2022 16:43:59:830  INFO http-nio-8085-exec-2 info:135 - Admin has create TRUONG DH TP HCM 1241 successfully with 
+14-07-2022 17:03:34:519  INFO http-nio-8085-exec-2 info:306 - Update University with name: TRUONG DH TP HCM 1240
+14-07-2022 17:10:18:101  INFO http-nio-8085-exec-1 info:307 - Update University with name: TRUONG DH TP HCM 1240
+14-07-2022 17:17:21:763  INFO http-nio-8085-exec-1 info:167 - Candidate test09@17 register successfull!
+14-07-2022 17:20:02:228  INFO http-nio-8085-exec-5 info:167 - Candidate test09@179 register successfull!
+14-07-2022 17:20:02:312  INFO http-nio-8085-exec-5 info:246 - test09@179 created successful university wit name: test09@179
+14-07-2022 17:32:26:919  INFO http-nio-8085-exec-8 info:167 - Candidate test09@180 register successfull!
+14-07-2022 17:32:26:999  INFO http-nio-8085-exec-8 info:249 - String String created successful university wit name: test09@180
+14-07-2022 09:47:13:056  INFO http-nio-8085-exec-2 info:178 - Candidate NVanLoc register successfull!
+14-07-2022 09:47:58:030  INFO http-nio-8085-exec-3 info:178 - Candidate LocNV register successfull!
+14-07-2022 10:00:02:593  INFO http-nio-8085-exec-4 info:167 - Candidate LocNV register successfull!
+14-07-2022 10:00:02:680  INFO http-nio-8085-exec-4 info:98 - HR saved with username: LocNV
+14-07-2022 10:01:28:978  INFO http-nio-8085-exec-7 info:167 - Candidate LocNV register successfull!
+14-07-2022 10:01:28:983  INFO http-nio-8085-exec-7 info:98 - HR saved with username: LocNV
+14-07-2022 10:03:27:626  INFO http-nio-8085-exec-2 info:167 - Candidate LocNguyen register successfull!
+14-07-2022 10:03:27:629  INFO http-nio-8085-exec-2 info:99 - HR saved with username: LocNguyen
+14-07-2022 10:08:06:322  INFO http-nio-8085-exec-2 info:168 - Candidate LocNguyenV register successfull!
+14-07-2022 10:08:06:325  INFO http-nio-8085-exec-2 info:100 - HR saved with username: LocNguyenV
+14-07-2022 10:34:29:669  INFO http-nio-8085-exec-2 info:155 - Candidate LocNgV register successfull!
+14-07-2022 10:34:29:673  INFO http-nio-8085-exec-2 info:100 - HR saved with username: LocNgV
+14-07-2022 10:35:29:548  INFO http-nio-8085-exec-5 info:155 - Candidate LocNgVan register successfull!
+14-07-2022 10:35:29:551  INFO http-nio-8085-exec-5 info:100 - HR saved with username: LocNgVan
+14-07-2022 11:20:43:258  INFO http-nio-8085-exec-1 info:155 - Candidate LocNguVan register successfull!
+14-07-2022 11:20:43:263  INFO http-nio-8085-exec-1 info:103 - HR saved with username: LocNguVan
+14-07-2022 11:26:50:821  INFO http-nio-8085-exec-4 info:155 - Candidate LocNVan register successfull!
+14-07-2022 11:26:50:862  INFO http-nio-8085-exec-4 info:103 - HR saved with username: LocNVan
+14-07-2022 11:28:10:818  INFO http-nio-8085-exec-6 info:155 - Candidate LocNuVan register successfull!
+14-07-2022 11:28:10:825  INFO http-nio-8085-exec-6 info:103 - HR saved with username: LocNuVan
+14-07-2022 13:09:44:167  INFO http-nio-8085-exec-9 info:155 - Candidate boxxx register successfull!
+14-07-2022 13:09:44:180  INFO http-nio-8085-exec-9 info:103 - HR saved with username: boxxx
+15-07-2022 09:47:14:914  INFO http-nio-8085-exec-2 info:159 - Candidate vừa được tạo thành công với username: testtest36
+15-07-2022 09:48:52:387  INFO http-nio-8085-exec-7 info:153 - User test091@80 register successfull!
+15-07-2022 09:49:53:850  INFO http-nio-8085-exec-10 info:53 - %s has successfully logged in.
+15-07-2022 09:50:42:997  INFO http-nio-8085-exec-1 info:221 - Update Candidate with username: testtest36
+15-07-2022 09:50:52:181  INFO http-nio-8085-exec-2 info:221 - Update Candidate with username: testtest36
+15-07-2022 09:51:02:676  INFO http-nio-8085-exec-3 info:221 - Update Candidate with username: testtest36
+15-07-2022 09:51:23:073  INFO http-nio-8085-exec-4 info:221 - Update Candidate with username: testtest36
+15-07-2022 10:00:24:982  INFO http-nio-8085-exec-6 info:153 - User test09280 register successfull!
+15-07-2022 10:00:25:150  INFO http-nio-8085-exec-6 info:251 - String String created successful university wit name: test09280
+15-07-2022 11:17:22:386  INFO http-nio-8085-exec-4 info:221 - Update Candidate with username: testtest36
+15-07-2022 11:17:40:020  INFO http-nio-8085-exec-2 info:221 - Update Candidate with username: testtest36
+15-07-2022 11:21:48:008  INFO http-nio-8085-exec-3 info:221 - Update Candidate with username: testtest36
+15-07-2022 13:18:31:479  INFO http-nio-8085-exec-1 info:221 - Update Candidate with username: testtest36
+15-07-2022 13:20:09:495  INFO http-nio-8085-exec-1 info:221 - Update Candidate with username: testtest36
+15-07-2022 13:20:27:832  INFO http-nio-8085-exec-6 info:221 - Update Candidate with username: testtest36
+15-07-2022 13:20:47:197  INFO http-nio-8085-exec-7 info:221 - Update Candidate with username: testtest36
+15-07-2022 15:07:02:707  INFO http-nio-8085-exec-2 info:53 - %s has successfully logged in.
+20-07-2022 19:23:30:718  INFO http-nio-8085-exec-1 info:266 - User 12340000 request reset password
+20-07-2022 19:47:18:493  INFO http-nio-8085-exec-1 info:154 - User test09280 register successfull!
+20-07-2022 19:47:18:769  INFO http-nio-8085-exec-1 info:265 - String String created successful university wit name: test09280
+22-07-2022 13:11:06:382  INFO http-nio-8085-exec-6 info:154 - User uteHCM1 register successfull!
+22-07-2022 13:11:06:677  INFO http-nio-8085-exec-6 info:265 - String String created successful university wit name: uteHCM1
+22-07-2022 13:27:01:625  INFO http-nio-8085-exec-8 info:154 - User uteHCM2 register successfull!
+22-07-2022 16:09:07:251  INFO http-nio-8085-exec-5 info:53 - %s has successfully logged in.
+22-07-2022 16:54:43:081  INFO http-nio-8085-exec-9 info:67 - Admin has create demand university with name TRUONG DH TP HN 135
+22-07-2022 16:54:54:383  INFO http-nio-8085-exec-8 info:67 - Admin has create demand university with name TRUONG DH TP HN 135
+25-07-2022 13:01:13:373  INFO http-nio-8085-exec-1 info:67 - Location id 69 save successfully
+26-07-2022 13:37:08:340  INFO http-nio-8085-exec-4 info:119 - Candidate shfbjhv created rate with company Công ty TNHH Phần mềm FPT successfully
+26-07-2022 13:37:18:523  INFO http-nio-8085-exec-3 info:130 - Candidate shfbjhv updated the rate with company Công ty TNHH Phần mềm FPT successfully
+26-07-2022 13:37:24:033  INFO http-nio-8085-exec-5 info:139 - Candidate shfbjhv removed the rate successfully
+26-07-2022 13:37:30:423  INFO http-nio-8085-exec-6 info:119 - Candidate shfbjhv set rate active with company Công ty TNHH Phần mềm FPT successfully
+26-07-2022 13:37:35:732  INFO http-nio-8085-exec-2 info:130 - Candidate shfbjhv updated the rate with company Công ty TNHH Phần mềm FPT successfully
+26-07-2022 13:37:53:549  INFO http-nio-8085-exec-10 info:98 - Candidate hoangtrungnhatt add job System Admin - Networking - Không Yêu Cầu Kinh Nghiệm to care list successfully!
+26-07-2022 13:38:02:421  INFO http-nio-8085-exec-7 info:109 - Candidate hoangtrungnhat update note about job Thực tập Frontend Angular successfully!
+26-07-2022 13:38:18:557  INFO http-nio-8085-exec-1 info:109 - Candidate hoangtrungnhatt update note about job System Admin - Networking - Không Yêu Cầu Kinh Nghiệm successfully!
+26-07-2022 13:38:46:055  INFO http-nio-8085-exec-4 info:117 - Candidate hoangtrungnhatt delete a note successfully!
+26-07-2022 13:38:52:913  INFO http-nio-8085-exec-3 info:98 - Candidate hoangtrungnhatt add job System Admin - Networking - Không Yêu Cầu Kinh Nghiệm to care list successfully!
+26-07-2022 13:38:58:770  INFO http-nio-8085-exec-5 info:109 - Candidate hoangtrungnhatt update note about job System Admin - Networking - Không Yêu Cầu Kinh Nghiệm successfully!
+28-07-2022 14:22:31:126  INFO http-nio-8085-exec-2 info:121 - Admin has create demand university with name TRUONG DH TP HCM 1125
+28-07-2022 14:31:09:829  INFO http-nio-8085-exec-2 info:121 - Admin has create demand university with name TRUONG DH TP HCM 1125
+28-07-2022 14:33:55:695  INFO http-nio-8085-exec-6 info:121 - Admin has create demand university with name TRUONG DH TP HCM 1125
+29-07-2022 10:16:23:130  INFO http-nio-8085-exec-1 info:121 - Admin has create demand university with name TRUONG DH TP HN 111[2022-08-03 09:48:35:657] [http-nio-8085-exec-1] [INFO ] info - Location id 52 update successfully
+[2022-08-03 10:46:57:902] [http-nio-8085-exec-1] [INFO ] info - Location id 19 update successfully
+[2022-08-03 10:53:59:538] [http-nio-8085-exec-10] [INFO ] info - Location id 19 update successfully
+[2022-08-03 10:54:04:578] [http-nio-8085-exec-6] [INFO ] info - Location id 19 update successfully
+[2022-08-03 10:54:32:240] [http-nio-8085-exec-7] [INFO ] info - Location id 19 update successfully
+[2022-08-03 11:00:42:372] [http-nio-8085-exec-2] [INFO ] info - Location id 19 update successfully
+[2022-08-03 11:00:55:501] [http-nio-8085-exec-7] [INFO ] info - Location id 19 update successfully
+[2022-08-03 11:44:29:268] [http-nio-8085-exec-3] [INFO ] info - Location id 19 update successfully
+[2022-08-03 11:44:48:796] [http-nio-8085-exec-4] [INFO ] info - Location id 19 update successfully
+[2022-08-03 23:52:50:882] [http-nio-8085-exec-3] [INFO ] info - Update status of job successfully
+[2022-08-03 23:52:58:165] [http-nio-8085-exec-2] [INFO ] info - Update status of job successfully
+[2022-08-03 23:53:16:838] [http-nio-8085-exec-4] [INFO ] info - Update status of job successfully
+[2022-08-05 13:03:40:436] [http-nio-8085-exec-2] [INFO ] info - Location id 19 update successfully
+[2022-08-05 13:03:40:486] [http-nio-8085-exec-2] [INFO ] info - Job with id 10 has been updated successfully
+[2022-08-05 13:03:48:484] [http-nio-8085-exec-3] [INFO ] info - Location id 19 update successfully
+[2022-08-05 13:03:48:490] [http-nio-8085-exec-3] [INFO ] info - Job with id 10 has been updated successfully
+[2022-08-05 16:18:29:219] [http-nio-8085-exec-1] [INFO ] info - Candidate vừa được tạo thành công với username: thanhnguyennhat
+[2022-08-08 00:28:07:040] [http-nio-8085-exec-1] [INFO ] info - Admin has create TRUONG DH TP HCM 124 successfully with 
+[2022-08-08 00:35:40:383] [http-nio-8085-exec-2] [INFO ] info - Admin has create TRUONG DH TP HCM 125 successfully with 
+[2022-08-08 11:04:26:453] [http-nio-8085-exec-4] [INFO ] info - Candidate vừa được tạo thành công với username: thanhnguyennhat1
+[2022-08-11 09:43:11:185] [http-nio-8085-exec-2] [INFO ] info - User 123400000 register successfull!
+[2022-08-11 09:43:12:614] [http-nio-8085-exec-2] [INFO ] info - HR saved with username: 123400000
+[2022-08-11 11:00:19:551] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-08-11 11:02:18:312] [http-nio-8085-exec-10] [INFO ] info - %s has successfully logged in.
+[2022-08-11 11:19:52:868] [http-nio-8085-exec-6] [INFO ] info - %s has successfully logged in.
+[2022-08-11 11:25:00:641] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-08-11 13:32:54:241] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-08-11 14:32:47:965] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 14:39:51:847] [http-nio-8085-exec-6] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 14:49:51:596] [http-nio-8085-exec-6] [INFO ] info - Apply 1 save the CV /CVApply/2022/jobsit.vn.error.log successfully
+[2022-08-11 14:49:51:801] [http-nio-8085-exec-6] [INFO ] info - Candidate id: 1 apply Job id:3   successfully
+[2022-08-11 15:14:13:477] [http-nio-8085-exec-2] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 15:53:53:030] [http-nio-8085-exec-2] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 15:56:12:269] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 15:57:18:187] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 16:17:52:878] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 16:19:29:872] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 16:26:22:489] [http-nio-8085-exec-2] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 16:56:18:342] [http-nio-8085-exec-2] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:06:22:843] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:10:36:584] [http-nio-8085-exec-10] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:12:52:572] [http-nio-8085-exec-2] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:15:39:632] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:17:11:356] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:18:14:829] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:33:51:199] [http-nio-8085-exec-1] [INFO ] info - 123400000 has successfully logged in.
+[2022-08-11 17:40:17:409] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-08-11 21:45:33:257] [http-nio-8085-exec-3] [INFO ] info - Candidate vừa được tạo thành công với username: thanhnguyennhat12
+[2022-08-11 21:46:07:483] [http-nio-8085-exec-5] [INFO ] info - Apply 22 save the CV /CVApply/2022/jobsit.vn.error.log successfully
+[2022-08-11 21:46:07:642] [http-nio-8085-exec-5] [INFO ] info - Candidate id: 22 apply Job id:3   successfully
+[2022-08-11 23:10:31:660] [http-nio-8085-exec-10] [INFO ] info - Admin has create demand university with name Trường Đại học Khoa học Tự nhiên 
+[2022-08-11 23:11:31:793] [http-nio-8085-exec-3] [INFO ] info - Demand university updated by 12340011
+[2022-08-11 23:19:31:839] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-08-11 23:20:50:494] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-08-11 23:38:10:577] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-08-11 23:55:58:497] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-08-12 09:00:32:313] [http-nio-8085-exec-3] [INFO ] info - Demand university updated by 12340011
+[2022-08-12 09:51:33:774] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-08-12 09:52:50:314] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-08-12 09:54:02:957] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-08-23 14:37:33:698] [http-nio-8085-exec-2] [INFO ] info - User va123 register successfull!
+[2022-08-23 15:22:21:316] [http-nio-8085-exec-9] [INFO ] info - User vaa123 register successfull!
+[2022-08-23 15:26:51:392] [http-nio-8085-exec-6] [INFO ] info - User va321 register successfull!
+[2022-08-23 15:26:51:583] [http-nio-8085-exec-6] [INFO ] info - Viet Anh created successful university wit name: va321
+[2022-08-23 15:42:01:057] [http-nio-8085-exec-10] [INFO ] info - User va21 register successfull!
+[2022-08-23 15:42:01:207] [http-nio-8085-exec-10] [INFO ] info - Viet Anh created successful university wit name: va21
+[2022-08-25 09:18:32:897] [http-nio-8085-exec-4] [INFO ] info - User va231 register successfull!
+[2022-08-25 09:18:33:213] [http-nio-8085-exec-4] [INFO ] info - Viet Anh created successful university wit name: va231
+[2022-08-25 09:52:39:617] [http-nio-8085-exec-6] [INFO ] info - User va2 register successfull!
+[2022-08-25 09:52:39:831] [http-nio-8085-exec-6] [INFO ] info - Viet Anh created successful university wit name: va2
+[2022-08-25 11:18:09:810] [http-nio-8085-exec-1] [INFO ] info - User va4 register successfull!
+[2022-08-25 11:18:09:999] [http-nio-8085-exec-1] [INFO ] info - Viet Anh created successful university wit name: va4
+[2022-08-29 16:02:44:709] [http-nio-8085-exec-10] [INFO ] info - %s has successfully logged in.
+[2022-08-30 10:28:01:874] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-08-30 10:50:43:651] [http-nio-8085-exec-9] [INFO ] info - %s has successfully logged in.
+[2022-08-30 11:32:37:229] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-08-30 14:02:27:441] [http-nio-8085-exec-1] [INFO ] info - User va5 register successfull!
+[2022-08-30 14:02:27:841] [http-nio-8085-exec-1] [INFO ] info - Viet Anh created successful university wit name: va5
+[2022-08-30 14:08:06:369] [http-nio-8085-exec-5] [INFO ] info - User va7 register successfull!
+[2022-08-30 14:08:06:519] [http-nio-8085-exec-5] [INFO ] info - Viet Anh created successful university wit name: va7
+[2022-08-30 14:13:15:326] [http-nio-8085-exec-8] [INFO ] info - User va8 register successfull!
+[2022-08-30 14:13:15:490] [http-nio-8085-exec-8] [INFO ] info - Viet Anh created successful university wit name: va8
+[2022-08-30 14:17:29:620] [http-nio-8085-exec-3] [INFO ] info - User va9 register successfull!
+[2022-08-30 14:17:29:911] [http-nio-8085-exec-3] [INFO ] info - Viet Anh created successful university wit name: va9
+[2022-08-30 15:29:13:949] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-08-30 15:36:44:459] [http-nio-8085-exec-7] [INFO ] info - %s has successfully logged in.
+[2022-08-30 15:38:36:565] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-08-30 15:40:32:742] [http-nio-8085-exec-6] [INFO ] info - %s has successfully logged in.
+[2022-08-30 15:42:41:640] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-08-30 15:44:12:947] [http-nio-8085-exec-7] [INFO ] info - %s has successfully logged in.
+[2022-08-31 12:23:41:748] [http-nio-8085-exec-2] [INFO ] info - User box2k1 updated!
+[2022-08-31 12:23:41:749] [http-nio-8085-exec-2] [INFO ] info - Update Candidate with username: box2k1
+[2022-08-31 12:28:48:730] [http-nio-8085-exec-2] [INFO ] info - User box2k1 updated!
+[2022-08-31 12:28:48:732] [http-nio-8085-exec-2] [INFO ] info - Update Candidate with username: box2k1
+[2022-09-05 09:13:53:191] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-09-05 09:14:10:720] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-09-05 09:15:54:158] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-09-05 09:17:04:874] [http-nio-8085-exec-9] [INFO ] info - %s has successfully logged in.
+[2022-09-05 09:17:26:944] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-09-05 09:56:43:411] [http-nio-8085-exec-9] [INFO ] info - User box2k1 updated!
+[2022-09-05 09:56:43:413] [http-nio-8085-exec-9] [INFO ] info - Update Candidate with username: box2k1
+[2022-09-05 10:05:15:614] [http-nio-8085-exec-8] [INFO ] info - %s has successfully logged in.
+[2022-09-05 10:07:20:281] [http-nio-8085-exec-2] [INFO ] info - User box2k1 updated!
+[2022-09-05 10:07:20:281] [http-nio-8085-exec-2] [INFO ] info - Update Candidate with username: box2k1
+[2022-09-05 11:07:27:022] [http-nio-8085-exec-10] [INFO ] info - User va10 register successfull!
+[2022-09-05 11:07:27:395] [http-nio-8085-exec-10] [INFO ] info - Viet Anh created successful university wit name: va10
+[2022-09-05 13:34:53:695] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-09-05 13:45:24:169] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-09-05 16:30:41:803] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-09-06 10:03:36:836] [http-nio-8085-exec-4] [INFO ] info - %s has successfully logged in.
+[2022-09-06 10:03:52:031] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-09-06 10:52:06:529] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-09-08 10:53:06:706] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-09-08 11:58:30:681] [http-nio-8085-exec-6] [INFO ] info - %s has successfully logged in.
+[2022-09-08 13:55:21:391] [http-nio-8085-exec-9] [INFO ] info - %s has successfully logged in.
+[2022-09-09 09:24:21:515] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-09-09 10:06:52:192] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-09-09 15:40:12:035] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-09-16 14:06:00:791] [http-nio-8085-exec-4] [INFO ] info - User va12 register successfull!
+[2022-09-16 14:06:00:979] [http-nio-8085-exec-4] [INFO ] info - Viet Anh created successful university wit name: va12
+[2022-09-16 14:09:49:592] [http-nio-8085-exec-10] [INFO ] info - User va14 register successfull!
+[2022-09-16 14:13:35:593] [http-nio-8085-exec-1] [INFO ] info - User va15 register successfull!
+[2022-09-16 14:13:35:996] [http-nio-8085-exec-1] [INFO ] info - Viet Anh created successful university wit name: va15
+[2022-09-20 10:14:58:309] [http-nio-8085-exec-2] [INFO ] info - %s has successfully logged in.
+[2022-09-20 10:23:12:035] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-09-20 10:24:49:674] [http-nio-8085-exec-3] [INFO ] info - %s has successfully logged in.
+[2022-09-20 11:45:43:323] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-09-20 13:15:35:281] [http-nio-8085-exec-1] [INFO ] info - %s has successfully logged in.
+[2022-09-20 14:15:38:151] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-09-20 14:51:40:978] [http-nio-8085-exec-6] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-20 15:24:10:812] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-20 15:36:20:732] [http-nio-8085-exec-1] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-20 15:43:01:429] [http-nio-8085-exec-1] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 09:30:15:500] [http-nio-8085-exec-1] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 09:45:41:685] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 09:48:53:172] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 09:51:22:263] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 09:57:07:888] [http-nio-8085-exec-1] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 10:05:09:066] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
+[2022-09-22 10:09:57:298] [http-nio-8085-exec-7] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 10:11:23:962] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 10:15:12:268] [http-nio-8085-exec-4] [INFO ] info - Candidate vừa được tạo thành công với username: vacandidate1
+[2022-09-22 10:15:53:282] [http-nio-8085-exec-8] [INFO ] info - %s has successfully logged in.
+[2022-09-22 10:29:34:424] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 10:33:44:807] [http-nio-8085-exec-3] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-22 10:34:44:679] [http-nio-8085-exec-2] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-23 09:43:12:042] [http-nio-8085-exec-1] [INFO ] info - User vietanhcandidate request reset password
+[2022-09-23 09:44:35:228] [http-nio-8085-exec-5] [INFO ] info - %s has successfully logged in.
